@@ -3,4 +3,4 @@ SQL.MySQL
 python
 Tableau
 PostgreSQL.MongoDB
-scrapy
+hadoop.spark.hive.pig
