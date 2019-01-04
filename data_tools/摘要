@@ -1,6 +1,14 @@
-Excel
+小规模数据：
+·数据
 SQL.MySQL
-python
-Tableau
 PostgreSQL.MongoDB
+
+·算法
+Excel.Tableau.
+python.pandas.numpy.
+
+
+大规模数据：
+·数据
 hadoop.spark.hive.pig
+·算法
