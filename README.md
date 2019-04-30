@@ -1,4 +1,4 @@
 # Learning-and-practicing
-Some personal works algorithm.
+Some personal works on algorithm.
 
 
