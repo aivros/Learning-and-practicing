@@ -1,4 +1,4 @@
 # Learning-and-practicing
-Some personal works on data analysis.
+Some personal works algorithm.
 
 
